@@ -9,6 +9,7 @@ Backtracking Algorithm: The program uses a recursive backtracking approach to ex
 Efficiency: It checks for valid number placements by ensuring that the current number doesn’t violate Sudoku’s rules before proceeding.
 User Input: The Sudoku puzzle is entered as a partially filled grid, and the program returns the completed solution.
 Error Handling: If the given puzzle is unsolvable, the program gracefully exits with a relevant message.
+
 Skills & Technologies:
 
 Programming Language: Python
